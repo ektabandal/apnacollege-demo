@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is my first Git Repository
-Auter- Ekta Bandal
+This is my first Git Repository.
+<br>
+Auther- Ekta Bandal
