@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Git Repository.
 <br>
-Auther- Ekta Bandal
+Auther- Ekta Bandal (Iitian)
